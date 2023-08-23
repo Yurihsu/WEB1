@@ -334,7 +334,7 @@ img {
 /* ======= rwd ======= */
 @media screen and (max-width:992px) {
 	.fv_section1 {
-		/*width: 1000px;*/
+		width: 1000px;
 		margin: 0 auto;
 	}
 
@@ -353,7 +353,7 @@ img {
  @media screen and (max-width:768px) {
 	.fv_section1{
 		background: url(../img/fv_bg_M.jpg) no-repeat center top;
-		/*width: 1000px;*/
+		width: 1000px;
 		
 		
 	}
